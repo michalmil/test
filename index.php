@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta name="robots" content="noindex,nofollow" />
+<meta name="roboty" content="noindex,nofollow" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-touch-fullscreen" content="yes">
